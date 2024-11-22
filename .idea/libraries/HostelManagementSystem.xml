@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="HostelManagementSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Hms Java Major/Hms/HostelManagementSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Hms Java Major/Hms/HostelManagementSystem.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
